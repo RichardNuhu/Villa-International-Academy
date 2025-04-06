@@ -1,0 +1,189 @@
+#kul {background-color: rgba(219, 124, 14, 0.664);
+    color:black;
+    padding: 25px;
+    margin: auto;
+    border: rgb(206, 228, 15) 15px;
+    text-align: center
+    ;}
+#jul {margin: auto;
+    text-align: center;}
+#tul {color: rgb(10, 66, 43)
+     }
+nav {
+  background-color: #31353d;
+}
+
+nav ul li {
+  
+  display: inline-block;
+  width: 170px;
+  height: 35px;
+  line-height: 35px;
+  text-align: center;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: transparent darkgray;
+  
+}
+
+body {
+  background-color: aquamarine;
+}
+#logo {
+  display: inline;
+  border: 3px solid black;
+}
+#search {
+  float: right;
+  margin-top: 30px;
+
+}
+#link {
+  float: right;
+  margin-top: 30px;
+}
+#text_input {
+  height: 30px;
+}
+
+#button {
+  background-color: #d80026;
+  color: white;
+  padding: 7px;
+  width: 70px;
+  border: 0px;
+}
+
+a:link {
+  color: #31353d;
+  text-decoration: underline;
+}
+
+a:active {
+  background-color: olive;
+  color: saddlebrown;
+}
+
+a:visited {
+  color: rgb(158, 180, 202);
+}
+
+a:hover {
+  background-color: blue;
+  color: rgb(190, 138, 138);
+  text-decoration: double;
+  font-weight: bold;
+}
+
+#will {
+  background-color:gold;
+  color: blue;
+  margin-left: 80px;
+}
+
+.box {
+  background-color: rgb(28, 145, 86);
+  width: 300px;
+  float: left;
+  /* margin-right: 25px; */
+  padding: 13px;
+  margin-left: 70px;
+  margin-top: 9px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  line-height: 22px;
+  font-size: 15px;
+  border: 1px solid rgb(185, 183, 183);
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px #333333;
+  height: 200px;
+  
+}
+#some {
+  background-color: rgb(141, 177, 14);
+  text-align: center;
+}
+nav ul li {
+  display: inline-block;
+  width: 170px;
+  height: 35px;
+  line-height: 35px;
+  text-align: center;
+  padding: 20px;
+}
+
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  height: 900px;
+  
+}
+
+nav ul li a:hover {
+  background-color: #c5213f;
+  
+}
+
+nav ul li a:active {
+  background-color: rgb(181, 226, 19);
+}
+
+nav ul li a:visited {
+  background-color: rgb(5, 112, 68);
+}
+#tell {
+  background-color: darkgray;
+  color: black;
+}      
+#gub {
+  padding: 15px, 15px, 15px;
+  margin: 25px, 25px, 25px;
+}
+#wake {
+  float: inline-start;
+}
+
+  
+
+#run {
+  font-style: italic;
+}
+   
+#and {
+ margin-top: 280px;
+ text-align: center;
+ background-color: #31353d;
+ color: darkgoldenrod;
+ padding: 5px;
+ padding-top: 9px;
+}
+
+#that {
+  background-color: #31353d;
+  color: darkgoldenrod;
+  text-align: center;
+  padding: 5px;
+  padding-top: 9px;
+}
+
+#dnd {
+  background-color: #31353d;
+  color: darkgoldenrod;
+  text-align: center;
+  padding: 5px;
+  padding-top: 9px;
+}    
+
+#Anthem {
+  margin: 5px;
+  text-align: center;
+  
+}
+
+#osd {
+  float: left;
+  margin-left: 15px;
+  border: 2px solid burlywood;
+}
